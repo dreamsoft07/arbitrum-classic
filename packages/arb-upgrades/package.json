@@ -23,6 +23,6 @@
     "yargs": "^17.1.1"
   },
   "dependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.2"
+    "@nomiclabs/hardhat-ethers": "^2.2.3"
   }
 }
